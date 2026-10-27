@@ -1,0 +1,3 @@
+PyQt6>=6.6
+python-vlc>=3.0.20000
+requests>=2.31
